@@ -69,7 +69,7 @@
 
 <h3 align="left"> 📊 GitHub Analytics: </h3>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=visheshgupta-BA&" alt="visheshgupta-BA" width="414px" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=visheshgupta-BA&theme=react&border=61dafb&hide_border=true" alt="visheshgupta-BA" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=visheshgupta-BA&show_icons=true&locale=en&layout=compact" alt="visheshgupta-BA" /></p>
   
 ----

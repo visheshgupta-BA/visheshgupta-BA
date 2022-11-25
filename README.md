@@ -74,6 +74,6 @@
   
 ----
 
-<h3 align="left">My Contributions:</h3>
+<h3 align="left"> 🌐 My Contributions:</h3>
 
 ![Snake animation](https://github.com/visheshgupta-BA/visheshgupta-BA/blob/output/github-contribution-grid-snake.svg)

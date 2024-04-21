@@ -36,7 +36,7 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/visheshgupta-BA?tab=repositories)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptavishesh264@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SudhirVishesh)
-[![Me Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=npm&logoColor=white)](https://visheshgupta-ba.github.io/VisheshGupta/index.html)
+[![Me Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=npm&logoColor=white)](https://visheshgupta-ba.github.io/0264/index.html)
 
 ----
   

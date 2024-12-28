@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4500&pause=800&color=F70000&center=true&vCenter=true&width=1250&lines=Hello+!+I'm+Vishesh+Gupta;An+Engineer+in+the+Data+Science+Field+;I'm+Learning+Machine+learning+for+Data+Science;Clustering%2C+classification%2C+Regression" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4500&pause=800&color=F70000&center=true&vCenter=true&width=1250&lines=Hello+!+I'm+Vishesh+Gupta;An+Engineer+in+the+Machine+Learning+Field+;I'm+Learning+Machine+learning+for+Data+Science;Generative AI - LLMs - RAG %2C+classification%2C+Regression" alt="Typing SVG" /></a>
 </p>
 
 

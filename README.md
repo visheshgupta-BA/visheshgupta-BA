@@ -21,12 +21,12 @@
 
 <div>
 <h3><b>About Me:</b></h3>
- 
- - 🏫 I am currently pursuing my <b>Masters of Science in Data Analytics Engineering</b> at Northeastern University, Boston.
- 
- - 🔭 My primary focus is on transforming massive amounts of data and information into compelling visualizations that effectively communicate a "story" to the targeted audience.
 
-- ⚡ Presently, I am gaining skills and practical experience in `SQL` and `Machine Learning`.
+- 🏫 I am a Machine Learning Engineer professional with a Master of Science in Data Analytics Engineering from Northeastern University, Boston, and 3.5 years of industry experience in Data Science and Machine Learning.
+
+- 🔭 My primary expertise lies in MLOps and LLMOps, with a specialization in Retrieval-Augmented Generation (RAG). I focus on designing and implementing scalable, efficient, and robust pipelines for machine learning and large language models (LLMs).
+
+- ⚡ I am currently delving into the exciting field of Agentic AI, exploring how autonomous agents can enhance real-world problem-solving and decision-making.
  
 - 👨‍💻 If you are interested in data research projects, feel free to browse my <a href="https://github.com/visheshgupta-BA?tab=repositories" target="blank">[Github repositories](https://github.com/visheshgupta-BA?tab=repositories) and For an overview of my ideas, check out my [Blog](https://visheshgupta-ba.github.io/VisheshGupta/blog.html).
 

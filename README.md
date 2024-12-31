@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Vishesh Gupta</h1>
-<h3 align="center">A solely devoted 'Data Science' Researcher!!</h3>
+<h3 align="center">A solely devoted 'Machine Learning Engineer & Data Science' Researcher!!</h3>
 
 <p align=center>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img height="25" src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
